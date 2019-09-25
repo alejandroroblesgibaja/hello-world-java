@@ -1,2 +1,3 @@
-# hello-world-java
-Hello world with Java
+# Hello world with Java
+
+This is a simple **"Hello world"** done with **Java** prpgramming language
